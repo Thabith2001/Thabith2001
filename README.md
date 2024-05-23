@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThabithShahulHameed
 - 👀 I’m interested in programming with new ideas ...
-- 🌱 I’m currently learning Java EE ...
-- 🎓 I'm studying at Java institute for Advanced Technology 
+- 🌱 I’m a fanboy of Java 
+- 🎓 I'm studying at the Java Institute for Advanced Technology 
 
 <!---
 Thabith2001/Thabith2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
