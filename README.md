@@ -247,19 +247,6 @@ const thabith = {
 
 ---
 
-## 💭 Philosophy
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### *"Code is like humor. When you have to explain it, it's bad."*
-**— Cory House**
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
