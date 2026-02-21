@@ -181,19 +181,17 @@ const thabith = {
 
 **Backend Mastery**
 - 🔹 Advanced Spring Boot patterns
-- 🔹 Microservices architecture
 - 🔹 System design principles
 - 🔹 Event-driven architecture
 
 **Cloud & DevOps**
-- ☁️ AWS (EC2, S3, Lambda, RDS)
+- ☁️ AWS (EC2, S3, IAM, RDS)
 - 🐳 Docker containerization
-- 🔄 CI/CD pipelines
-- ⚙️ Kubernetes basics
+- 🔄 CI/CD pipeline
 
 **Best Practices**
-- 📐 Design patterns (SOLID, DRY)
-- ✅ Test-driven development (TDD)
+- 📐 Design patterns
+- ✅ Test-driven development
 - 📊 Performance optimization
 - 🔒 Security best practices
 
