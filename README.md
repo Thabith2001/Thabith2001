@@ -53,7 +53,7 @@ const thabith = {
 - 💻 Specialized in **Java, Spring Boot, and React**
 - 🏗️ Built **4+ production-ready applications**
 - 🔐 Strong focus on **security** and **scalability**
-- 🌐 Experience with **RESTful APIs** and **microservices**
+- 🌐 Experience with **RESTful APIs**
 - 📱 Full-stack developer: **Backend to Mobile**
 
 <br clear="right"/>
@@ -216,7 +216,7 @@ const thabith = {
 
 ---
 
-## 🎯 2025 Goals & Aspirations
+## 🎯 2026 Goals & Aspirations
 
 <div align="center">
 
