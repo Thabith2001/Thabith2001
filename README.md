@@ -252,7 +252,7 @@ const thabith = {
 I'm always open to discussing **new opportunities**, **collaborations**, or just chatting about **tech**!
 
 <p>
-<a href="mailto:thabith20010909@gmail.com">
+<a href="mailto:shahulhameed.thabith@gmail.com">
   <img src="https://img.shields.io/badge/Email-thabith20010909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -261,7 +261,7 @@ I'm always open to discussing **new opportunities**, **collaborations**, or just
 <a href="https://linkedin.com/in/thabithshahulhameed">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://thabith-s-portfolio.vercel.app/">
+<a href="https://thabith-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
