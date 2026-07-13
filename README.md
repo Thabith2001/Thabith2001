@@ -177,7 +177,7 @@ const thabith = {
 
 <img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-### 🎯 2025 Focus Areas
+### 🎯 2026 Focus Areas
 
 **Backend Mastery**
 - 🔹 Advanced Spring Boot patterns
@@ -222,11 +222,11 @@ const thabith = {
 
 | Goal | Status | Target |
 |------|--------|--------|
-| 🚀 Land first professional SE role | 🔄 In Progress | Q1 2025 |
+| 🚀 Land first professional SE role | 🔄 In Progress | Q1 2026 |
 | 🌟 Contribute to open source | 🔄 In Progress | 5+ projects |
-| ☁️ Master AWS cloud services | 📚 Learning | Q2 2025 |
+| ☁️ Master AWS cloud services | 📚 Learning | Q2 2026 |
 | 🏗️ Build production apps | ✅ 4/7 Complete | 7 projects |
-| 📝 Start tech blogging | 🎯 Planned | Q2 2025 |
+| 📝 Start tech blogging | 🎯 Planned | Q2 2026 |
 
 </div>
 
@@ -236,7 +236,7 @@ const thabith = {
 
 <div align="center">
 
-🎓 **Software Engineering Degree** - [University Name]  
+🎓 **Software Engineering Degree** - Birmingham City University  
 📜 **Java Programming** - Certified  
 📜 **Spring Boot Development** - Completed  
 🏅 **Problem Solving Skills** - Active Contributor
