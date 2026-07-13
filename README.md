@@ -253,7 +253,7 @@ I'm always open to discussing **new opportunities**, **collaborations**, or just
 
 <p>
 <a href="mailto:shahulhameed.thabith@gmail.com">
-  <img src="https://img.shields.io/badge/Email-thabith20010909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-shahulhameed.thabith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
